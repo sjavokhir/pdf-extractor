@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Base.Theme.PdfExtractor" parent="Theme.Material3.Light.NoActionBar" />
+
+    <style name="Theme.PdfExtractor" parent="Base.Theme.PdfExtractor" />
+</resources>

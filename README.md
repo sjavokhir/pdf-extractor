@@ -1,2 +1,1 @@
-# pdf-extractor
-PDF Extractor
+# PDF Extractor
